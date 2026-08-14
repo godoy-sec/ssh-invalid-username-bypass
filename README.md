@@ -50,7 +50,7 @@ Keep the connection type as **SSH** and the port as **22**.
 
 ## SSH Log Poisoning
 
-After connecting with the username through PuTTY, the username appears in the SSH authentication log:
+After connecting through PuTTY, the username appears in the SSH authentication log:
 
 <p align="center">
   <img src="screenshots/ssh-log.png" alt="SSH Log" width="900">
