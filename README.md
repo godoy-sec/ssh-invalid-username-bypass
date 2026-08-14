@@ -1,6 +1,5 @@
 # SSH Invalid Username Bypass
 
-
 A simple workaround for the OpenSSH error:
 
 ```text id="j8r1os"
@@ -14,7 +13,7 @@ This can be relevant when testing **SSH log poisoning**, where attacker-controll
 ## OpenSSH Error
 
 <p align="center">
-  <img src="screenshots/openssh-error.png" alt="OpenSSH Error" width="900">
+  <img src="screenshots/openssh-error" alt="OpenSSH Error" width="900">
 </p>
 
 ---
