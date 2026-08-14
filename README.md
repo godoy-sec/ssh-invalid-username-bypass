@@ -28,22 +28,23 @@ remote username contains invalid characters
 
 On Debian-based systems, install PuTTY with:
 
-```bash id="5e6v2x"
+```bash
 sudo apt update
 sudo apt install putty
 ```
 
-Open PuTTY and configure the SSH connection.
+Open PuTTY and enter the username and target IP directly in the **Host Name** field using:
 
-Then navigate to:
+```text
+<USERNAME>@<TARGET_IP>
+```
 
-**Connection → Data → Auto-login username**
-
-Enter the same username that was rejected by OpenSSH.
+Keep the connection type as **SSH** and the port as **22**.
 
 <p align="center">
   <img src="screenshots/putty-config.png" alt="PuTTY Configuration" width="700">
 </p>
+
 
 ---
 
