@@ -1,5 +1,6 @@
 # SSH Invalid Username Bypass
 
+
 A simple workaround for the OpenSSH error:
 
 ```text id="j8r1os"
