@@ -12,12 +12,6 @@ This can be relevant when testing **SSH log poisoning**, where attacker-controll
 
 ## OpenSSH Error
 
-When attempting to use a username containing special characters with OpenSSH, the client rejects it:
-
-```text id="s0d5x7"
-remote username contains invalid characters
-```
-
 <p align="center">
   <img src="screenshots/openssh-error.png" alt="OpenSSH Error" width="900">
 </p>
