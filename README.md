@@ -13,7 +13,7 @@ This can be relevant when testing **SSH log poisoning**, where attacker-controll
 ## OpenSSH Error
 
 <p align="center">
-  <img src="screenshots/openssh-error" alt="OpenSSH Error" width="900">
+  <img src="screenshots/openssh-error.png" alt="OpenSSH Error" width="900">
 </p>
 
 ---
